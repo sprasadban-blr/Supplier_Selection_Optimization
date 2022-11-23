@@ -1,0 +1,17 @@
+ItemId,CommodityId,SupplierId,Quantity,Quoted_Price,ExtendedPrice
+1899326,,kschumacher,0,0.0,200.0
+1899326,,cford,0,0.0,200.0
+1899332,,kschumacher,3,65.66,196.98
+1899332,,cford,3,52.65,157.95
+1899329,,kokamoto,0,0.0,0.0
+1899326,,ccooper,0,0.0,200.0
+1899332,,kokamoto,3,78.84,236.52
+1899331,,kokamoto,2,51.85,103.7
+1899326,,kokamoto,0,0.0,200.0
+1899329,,cford,0,0.0,0.0
+1899332,,ccooper,3,76.39,229.17
+1899329,,kschumacher,0,0.0,0.0
+1899331,,kschumacher,2,70.92,141.84
+1899331,,cford,2,94.86,189.72
+1899329,,ccooper,0,0.0,0.0
+1899331,,ccooper,2,81.61,163.22

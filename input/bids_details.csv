@@ -1,0 +1,4 @@
+ItemId,CommodityId,SupplierId,Quantity,Quoted_Price,ExtendedPrice
+1899326,432118,100,100,85,850
+1899326,432118,SupplierRPC05,100,92,920
+1899326,432118,SupplierRPC06,100,95,950
