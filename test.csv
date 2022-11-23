@@ -1,0 +1,6 @@
+university,cost,cost_utility,location,location_utility,rank,rank_utility
+Univ_A,10000,50,30,90,60,70
+Univ_B,8000,60,150,50,50,75
+Univ_C,15000,25,50,83.5,5,97.5
+Univ_D,28000,0,200,30,5,97.5
+Univ_E,12000,40,350,0,60,70
