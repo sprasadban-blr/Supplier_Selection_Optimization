@@ -1,0 +1,4 @@
+Algorithm,MSE,MAS
+LinearRegression,2.76,2.34
+KNN,2.55,2.16
+DecisionTree,0.21,0.04
